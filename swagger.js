@@ -10,10 +10,10 @@ const doc = {
         description: "Documentation for Note-Taking App automatically generated </b> module."
     },
     servers: [
-      {
-        url: "http://localhost:3000",
-        description: "Testing on Local Machine"
-      },
+      // {
+      //   url: "http://localhost:3000",
+      //   description: "Testing on Local Machine"
+      // },
       {
         url: "https://note-taking-app-api.onrender.com",
         description: "Confirmed working well"
